@@ -5,7 +5,8 @@
   "author": "Valentin Hervieu",
   "license": "none",
   "scripts": {
-    "start": "node ."
+    "start": "node .",
+    "build": "node index.js"
   },
   "private": true,
   "dependencies": {
