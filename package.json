@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Valentin Hervieu",
   "license": "none",
+  "scripts": {
+    "start": "node ."
+  },
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
