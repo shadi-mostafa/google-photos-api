@@ -6,7 +6,7 @@
   "license": "none",
   "scripts": {
     "now-start": "node .",
-    "start": "node api/index.js"
+    "start": "now dev"
   },
   "private": true,
   "dependencies": {
